@@ -1,0 +1,7 @@
+# MOD07_LAK_EX01
+Refactoring JavaScript Code to Use Classes and Objects
+NOMBRE: JOSÉ VICENTE TEJERO CALDERERA FECHA: 27/09/2020
+
+RESUMEN: 
+
+DIFICULTAD:
